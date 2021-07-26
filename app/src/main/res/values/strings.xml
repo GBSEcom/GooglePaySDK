@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+     Copyright (C) Google
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources>
+    <string name="app_name">My Online Store App</string>
+    <string name="store_name">My Online Store</string>
+    <string name="amount">Amount:</string>
+    <string name="pwg_status_unavailable">Unfortunately, GooglePay is not available on this phone.</string>
+    <string name="pwg_status_checking">Checking if GooglePay is available...</string>
+    <string name="payments_show_name">Successfully received payment data for %s!</string>
+    <string name="response_hint">The response message from FirstAPI</string>
+    <string name="quit">Quit</string>
+    <string name="Prompt">Please choose the currency</string>
+    <string-array name="Currency">
+        <item>USD</item>
+        <item>EUR</item>
+    </string-array>
+    <string name="EnvPromt">Choose the environmet</string>
+    <string-array name="Environment">
+        <item>CERT</item>
+    </string-array>
+    <string name="DocTypePrompt">Enter the Document Type</string>
+    <string-array name="DocType">
+        <item>NATIONAL_IDENTITY</item>
+        <item>SINGLE_TAX_IDENTIFICATION</item>
+        <item>SINGLE_CODE_OF_LABOR_IDENTIFICATION</item>
+        <item>BOOK_ENLISTMENT</item>
+        <item>CIVIC_NOTEBOOK</item>
+        <item>PASSPORT</item>
+    </string-array>
+
+
+</resources>
